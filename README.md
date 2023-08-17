@@ -1,8 +1,10 @@
-### 基于SPH的2D 流体物理模拟
+### 基于SPH的2D流体物理模拟
+
+参考理论知识 https://www.thecodeway.com/?p=83
 
 使用opencv和eigen库实现
 
-实现框架参考GAMES101第一次作业部分opencv实现
+图像实现框架参考GAMES101第一次作业部分opencv实现
 
 需要eigen库和opencv
 opencv目录在cmakelists中自行设置
